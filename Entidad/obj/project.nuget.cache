@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "od8SHKXuYhSSUbcwGORujn65wct3itQrkUu9LuojOZOSLlPseCgLvwq3eLZlTl0ldX+W8xmCJyldKOs4uxZaWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhean\\OneDrive\\Documentos\\2020-2\\BAJO WEB\\PROYECTO DE AULA\\Avance-del-Hotel\\Entidad\\Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhean\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
